@@ -1,0 +1,32 @@
+{
+  "bytes": 30525312,
+  "sha256": "38431bc66b883404e8397f74c3579404315b9b52b04a46c6346fe906a7309b03",
+  "parts": [
+    {
+      "file": "magic-touch-int8-v1-38431bc66b88-part-01.bin",
+      "url": "https://wy7689059.github.io/shall-chill-assets/magic-touch-int8-v1-38431bc66b88-part-01.bin",
+      "bytes": 8388608,
+      "sha256": "c80f0b124dc4ded9d5b7709484de0d39d8dfe55b3a242396dd0cb3745f671c40"
+    },
+    {
+      "file": "magic-touch-int8-v1-38431bc66b88-part-02.bin",
+      "url": "https://wy7689059.github.io/shall-chill-assets/magic-touch-int8-v1-38431bc66b88-part-02.bin",
+      "bytes": 8388608,
+      "sha256": "1237a35bcd88aeae717c843c1a5d75e6890445f5a22a8da1688870cae8c5516b"
+    },
+    {
+      "file": "magic-touch-int8-v1-38431bc66b88-part-03.bin",
+      "url": "https://wy7689059.github.io/shall-chill-assets/magic-touch-int8-v1-38431bc66b88-part-03.bin",
+      "bytes": 8388608,
+      "sha256": "950aea686c7eec23c020c18c8f10bc8a2fb17b9ad4b6bdf47c70898080434da6"
+    },
+    {
+      "file": "magic-touch-int8-v1-38431bc66b88-part-04.bin",
+      "url": "https://wy7689059.github.io/shall-chill-assets/magic-touch-int8-v1-38431bc66b88-part-04.bin",
+      "bytes": 5359488,
+      "sha256": "3e23baac1882588f1f6c3c82a968a8cc03997c781c11223d7d3aac28bd2b1198"
+    }
+  ],
+  "source": "https://storage.googleapis.com/mediapipe-models/interactive_segmenter_v2/magic_touch/int8/1/interactive_segmentation.task",
+  "license": "Apache-2.0"
+}
